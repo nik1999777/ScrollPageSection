@@ -1,3 +1,5 @@
+import { IStep } from "../Steps/Steps.types";
+
 export interface IIcon {
   title: string;
   src: string;
@@ -11,6 +13,7 @@ export interface ISection {
   Fulltext: string;
   Image: string;
   icons: IIcon[];
+  step: IStep;
 }
 
 export type TypeScroll = "vertical" | "horizontal";

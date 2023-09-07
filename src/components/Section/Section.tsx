@@ -6,41 +6,27 @@ import SwiperEvent from "swiper";
 import { Mousewheel } from "swiper/modules";
 
 import "swiper/css";
-import "swiper/css/pagination";
 
 const Section: React.FC<ISectionProp> = ({
   sections,
   scrollType,
-  onLastSlide,
-  onFirstSlide,
   onSlideChange,
+  activeSection,
 }) => {
-  const handleReachEnd = () => {
-    if (onLastSlide) onLastSlide();
-  };
-
-  const handleReachBeginning = () => {
-    if (onFirstSlide) onFirstSlide();
-  };
-
-  const handleSlideChange = (event: SwiperEvent) => {
+  const handleSectionSlideChange = (event: SwiperEvent) => {
     if (onSlideChange) onSlideChange(event.activeIndex);
   };
 
   return (
     <Swiper
+      nested
       direction={scrollType}
-      speed={1100}
+      speed={900}
       slidesPerView={1}
-      spaceBetween={30}
+      initialSlide={activeSection}
       mousewheel={true}
-      pagination={{
-        clickable: true,
-      }}
       modules={[Mousewheel]}
-      onReachEnd={handleReachEnd}
-      onReachBeginning={handleReachBeginning}
-      onSlideChange={handleSlideChange}
+      onSlideChange={handleSectionSlideChange}
     >
       {sections.map((section, index) => (
         <SwiperSlide key={index}>

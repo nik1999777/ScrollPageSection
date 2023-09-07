@@ -2,13 +2,8 @@ import React from "react";
 import { Box, Typography } from "@mui/material";
 import { style } from "./styles";
 import { IIconsRenderer } from "./IconsRenderer.types";
-import { useLoadedImages } from "../../hooks/useLoadedImages";
 
-const iconImports = import.meta.glob("../../assets/icons/*.svg");
-
-const IconsRenderer: React.FC<IIconsRenderer> = ({ icons }) => {
-  const loadedIcons = useLoadedImages(iconImports);
-
+const IconsRenderer: React.FC<IIconsRenderer> = ({ icons, loadedIcons }) => {
   return (
     <Box sx={style.centeredIcons}>
       {icons.map((icon, index) => (

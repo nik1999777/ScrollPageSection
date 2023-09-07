@@ -189,7 +189,11 @@
               "colored": true,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
           "Title": "Code",
@@ -377,7 +381,11 @@
               "colored": false,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
           "Title": "Infrastructure",
@@ -565,7 +573,11 @@
               "colored": false,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
           "Title": "Visualisation",
@@ -753,7 +765,11 @@
               "colored": false,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
           "Title": "Notifications",
@@ -941,7 +957,11 @@
               "colored": true,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
           "Title": "Workflow & Processes",
@@ -1129,759 +1149,11 @@
               "colored": false,
               "type": "code"
             }
-          ]
-        },
-        {
-          "Title": "Teachers",
-          "Description": "Test automation course",
-          "Fulltext": "Some testers write automation code to improve test efficiency and reduce the amount of manual work required, while others may be motivated by the desire to receive good compensation for working as automation engineers. Regardless of the reasons for writing automation code, it’s important to focus on producing high-quality, reliable, and maintainable code that adds value to the testing process.\n\n",
-          "Image": "code.png",
-          "icons": [
-            {
-              "title": "Chrome",
-              "src": "chrome.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "FireFox",
-              "src": "firefox.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Safari",
-              "src": "slack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Rest api",
-              "src": "rest-api.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Android",
-              "src": "android.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "iOS",
-              "src": "ios.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Idea",
-              "src": "idea.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Java",
-              "src": "java.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Gradle",
-              "src": "gradle.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "JUnit5",
-              "src": "junit5.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Allure Reports",
-              "src": "allure_report.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Allure TestOps",
-              "src": "allure_testops.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Postman",
-              "src": "postman.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Rest-assured",
-              "src": "rest-assured.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenium",
-              "src": "selenium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenide",
-              "src": "selenide.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Appium",
-              "src": "appium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Appium",
-              "src": "appium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "GitHub",
-              "src": "github.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Jenkins",
-              "src": "jenkins.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Docker",
-              "src": "docker.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenoid",
-              "src": "selenoid.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Browserstack",
-              "src": "browserstack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Jira",
-              "src": "jira.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Telegram",
-              "src": "telegram.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Slack",
-              "src": "slack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Discord",
-              "src": "discord.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Mail",
-              "src": "gmail.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Skype",
-              "src": "skype.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Mattermost",
-              "src": "mattermost.svg",
-              "colored": true,
-              "type": "code"
-            }
-          ]
-        },
-        {
-          "Title": "Mentors",
-          "Description": "Test automation course",
-          "Fulltext": "Some testers write automation code to improve test efficiency and reduce the amount of manual work required, while others may be motivated by the desire to receive good compensation for working as automation engineers. Regardless of the reasons for writing automation code, it’s important to focus on producing high-quality, reliable, and maintainable code that adds value to the testing process.\n\n",
-          "Image": "code.png",
-          "icons": [
-            {
-              "title": "Chrome",
-              "src": "chrome.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "FireFox",
-              "src": "firefox.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Safari",
-              "src": "slack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Rest api",
-              "src": "rest-api.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Android",
-              "src": "android.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "iOS",
-              "src": "ios.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Idea",
-              "src": "idea.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Java",
-              "src": "java.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Gradle",
-              "src": "gradle.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "JUnit5",
-              "src": "junit5.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Allure Reports",
-              "src": "allure_report.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Allure TestOps",
-              "src": "allure_testops.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Postman",
-              "src": "postman.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Rest-assured",
-              "src": "rest-assured.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenium",
-              "src": "selenium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenide",
-              "src": "selenide.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Appium",
-              "src": "appium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Appium",
-              "src": "appium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "GitHub",
-              "src": "github.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Jenkins",
-              "src": "jenkins.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Docker",
-              "src": "docker.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenoid",
-              "src": "selenoid.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Browserstack",
-              "src": "browserstack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Jira",
-              "src": "jira.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Telegram",
-              "src": "telegram.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Slack",
-              "src": "slack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Discord",
-              "src": "discord.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Mail",
-              "src": "gmail.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Skype",
-              "src": "skype.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Mattermost",
-              "src": "mattermost.svg",
-              "colored": true,
-              "type": "code"
-            }
-          ]
-        },
-        {
-          "Title": "Reviews",
-          "Description": "Test automation course",
-          "Fulltext": "Some testers write automation code to improve test efficiency and reduce the amount of manual work required, while others may be motivated by the desire to receive good compensation for working as automation engineers. Regardless of the reasons for writing automation code, it’s important to focus on producing high-quality, reliable, and maintainable code that adds value to the testing process.\n\n",
-          "Image": "code.png",
-          "icons": [
-            {
-              "title": "Chrome",
-              "src": "chrome.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "FireFox",
-              "src": "firefox.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Safari",
-              "src": "slack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Rest api",
-              "src": "rest-api.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Android",
-              "src": "android.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "iOS",
-              "src": "ios.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Idea",
-              "src": "idea.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Java",
-              "src": "java.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Gradle",
-              "src": "gradle.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "JUnit5",
-              "src": "junit5.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Allure Reports",
-              "src": "allure_report.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Allure TestOps",
-              "src": "allure_testops.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Postman",
-              "src": "postman.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Rest-assured",
-              "src": "rest-assured.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenium",
-              "src": "selenium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenide",
-              "src": "selenide.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Appium",
-              "src": "appium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Appium",
-              "src": "appium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "GitHub",
-              "src": "github.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Jenkins",
-              "src": "jenkins.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Docker",
-              "src": "docker.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenoid",
-              "src": "selenoid.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Browserstack",
-              "src": "browserstack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Jira",
-              "src": "jira.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Telegram",
-              "src": "telegram.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Slack",
-              "src": "slack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Discord",
-              "src": "discord.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Mail",
-              "src": "gmail.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Skype",
-              "src": "skype.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Mattermost",
-              "src": "mattermost.svg",
-              "colored": true,
-              "type": "code"
-            }
-          ]
-        },
-        {
-          "Title": "Prices",
-          "Description": "Test automation course",
-          "Fulltext": "Some testers write automation code to improve test efficiency and reduce the amount of manual work required, while others may be motivated by the desire to receive good compensation for working as automation engineers. Regardless of the reasons for writing automation code, it’s important to focus on producing high-quality, reliable, and maintainable code that adds value to the testing process.\n\n",
-          "Image": "code.png",
-          "icons": [
-            {
-              "title": "Chrome",
-              "src": "chrome.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "FireFox",
-              "src": "firefox.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Safari",
-              "src": "slack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Rest api",
-              "src": "rest-api.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Android",
-              "src": "android.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "iOS",
-              "src": "ios.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Idea",
-              "src": "idea.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Java",
-              "src": "java.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Gradle",
-              "src": "gradle.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "JUnit5",
-              "src": "junit5.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Allure Reports",
-              "src": "allure_report.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Allure TestOps",
-              "src": "allure_testops.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Postman",
-              "src": "postman.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Rest-assured",
-              "src": "rest-assured.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenium",
-              "src": "selenium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenide",
-              "src": "selenide.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Appium",
-              "src": "appium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Appium",
-              "src": "appium.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "GitHub",
-              "src": "github.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Jenkins",
-              "src": "jenkins.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Docker",
-              "src": "docker.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Selenoid",
-              "src": "selenoid.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Browserstack",
-              "src": "browserstack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Jira",
-              "src": "jira.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Telegram",
-              "src": "telegram.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Slack",
-              "src": "slack.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Discord",
-              "src": "discord.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Mail",
-              "src": "gmail.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Skype",
-              "src": "skype.svg",
-              "colored": true,
-              "type": "code"
-            },
-            {
-              "title": "Mattermost",
-              "src": "mattermost.svg",
-              "colored": true,
-              "type": "code"
-            }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         }
       ]
     },
@@ -2074,7 +1346,11 @@
               "colored": true,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
           "Title": "Code",
@@ -2262,7 +1538,11 @@
               "colored": false,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
           "Title": "Infrastructure",
@@ -2450,7 +1730,11 @@
               "colored": false,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
           "Title": "Visualisation",
@@ -2638,7 +1922,11 @@
               "colored": false,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
           "Title": "Notifications",
@@ -2826,7 +2114,11 @@
               "colored": true,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
           "Title": "Workflow & Processes",
@@ -3014,10 +2306,19 @@
               "colored": false,
               "type": "code"
             }
-          ]
-        },
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
+        }
+      ]
+    },
+    {
+      "scrollType": "horizontal",
+      "sections": [
         {
-          "Title": "Teachers",
+          "Title": "Java QA Automation",
           "Description": "Test automation course",
           "Fulltext": "Some testers write automation code to improve test efficiency and reduce the amount of manual work required, while others may be motivated by the desire to receive good compensation for working as automation engineers. Regardless of the reasons for writing automation code, it’s important to focus on producing high-quality, reliable, and maintainable code that adds value to the testing process.\n\n",
           "Image": "code.png",
@@ -3202,10 +2503,14 @@
               "colored": true,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
-          "Title": "Mentors",
+          "Title": "Code",
           "Description": "Test automation course",
           "Fulltext": "Some testers write automation code to improve test efficiency and reduce the amount of manual work required, while others may be motivated by the desire to receive good compensation for working as automation engineers. Regardless of the reasons for writing automation code, it’s important to focus on producing high-quality, reliable, and maintainable code that adds value to the testing process.\n\n",
           "Image": "code.png",
@@ -3213,37 +2518,37 @@
             {
               "title": "Chrome",
               "src": "chrome.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "FireFox",
               "src": "firefox.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Safari",
               "src": "slack.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Rest api",
               "src": "rest-api.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Android",
               "src": "android.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "iOS",
               "src": "ios.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
@@ -3279,13 +2584,13 @@
             {
               "title": "Allure TestOps",
               "src": "allure_testops.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Postman",
               "src": "postman.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
@@ -3327,73 +2632,77 @@
             {
               "title": "Jenkins",
               "src": "jenkins.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Docker",
               "src": "docker.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Selenoid",
               "src": "selenoid.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Browserstack",
               "src": "browserstack.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Jira",
               "src": "jira.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Telegram",
               "src": "telegram.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Slack",
               "src": "slack.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Discord",
               "src": "discord.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Mail",
               "src": "gmail.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Skype",
               "src": "skype.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Mattermost",
               "src": "mattermost.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
-          "Title": "Reviews",
+          "Title": "Infrastructure",
           "Description": "Test automation course",
           "Fulltext": "Some testers write automation code to improve test efficiency and reduce the amount of manual work required, while others may be motivated by the desire to receive good compensation for working as automation engineers. Regardless of the reasons for writing automation code, it’s important to focus on producing high-quality, reliable, and maintainable code that adds value to the testing process.\n\n",
           "Image": "code.png",
@@ -3401,61 +2710,61 @@
             {
               "title": "Chrome",
               "src": "chrome.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "FireFox",
               "src": "firefox.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Safari",
               "src": "slack.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Rest api",
               "src": "rest-api.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Android",
               "src": "android.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "iOS",
               "src": "ios.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Idea",
               "src": "idea.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Java",
               "src": "java.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Gradle",
               "src": "gradle.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "JUnit5",
               "src": "junit5.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
@@ -3473,37 +2782,37 @@
             {
               "title": "Postman",
               "src": "postman.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Rest-assured",
               "src": "rest-assured.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Selenium",
               "src": "selenium.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Selenide",
               "src": "selenide.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Appium",
               "src": "appium.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Appium",
               "src": "appium.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
@@ -3545,43 +2854,47 @@
             {
               "title": "Telegram",
               "src": "telegram.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Slack",
               "src": "slack.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Discord",
               "src": "discord.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Mail",
               "src": "gmail.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Skype",
               "src": "skype.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Mattermost",
               "src": "mattermost.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         },
         {
-          "Title": "Prices",
+          "Title": "Visualisation",
           "Description": "Test automation course",
           "Fulltext": "Some testers write automation code to improve test efficiency and reduce the amount of manual work required, while others may be motivated by the desire to receive good compensation for working as automation engineers. Regardless of the reasons for writing automation code, it’s important to focus on producing high-quality, reliable, and maintainable code that adds value to the testing process.\n\n",
           "Image": "code.png",
@@ -3589,61 +2902,61 @@
             {
               "title": "Chrome",
               "src": "chrome.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "FireFox",
               "src": "firefox.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Safari",
               "src": "slack.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Rest api",
               "src": "rest-api.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Android",
               "src": "android.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "iOS",
               "src": "ios.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Idea",
               "src": "idea.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Java",
               "src": "java.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Gradle",
               "src": "gradle.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "JUnit5",
               "src": "junit5.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
@@ -3661,73 +2974,265 @@
             {
               "title": "Postman",
               "src": "postman.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Rest-assured",
               "src": "rest-assured.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Selenium",
               "src": "selenium.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Selenide",
               "src": "selenide.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Appium",
               "src": "appium.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Appium",
               "src": "appium.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "GitHub",
               "src": "github.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Jenkins",
               "src": "jenkins.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Docker",
               "src": "docker.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Selenoid",
               "src": "selenoid.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Browserstack",
               "src": "browserstack.svg",
-              "colored": true,
+              "colored": false,
               "type": "code"
             },
             {
               "title": "Jira",
               "src": "jira.svg",
               "colored": true,
+              "type": "code"
+            },
+            {
+              "title": "Telegram",
+              "src": "telegram.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Slack",
+              "src": "slack.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Discord",
+              "src": "discord.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Mail",
+              "src": "gmail.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Skype",
+              "src": "skype.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Mattermost",
+              "src": "mattermost.svg",
+              "colored": false,
+              "type": "code"
+            }
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
+        },
+        {
+          "Title": "Notifications",
+          "Description": "Test automation course",
+          "Fulltext": "Some testers write automation code to improve test efficiency and reduce the amount of manual work required, while others may be motivated by the desire to receive good compensation for working as automation engineers. Regardless of the reasons for writing automation code, it’s important to focus on producing high-quality, reliable, and maintainable code that adds value to the testing process.\n\n",
+          "Image": "code.png",
+          "icons": [
+            {
+              "title": "Chrome",
+              "src": "chrome.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "FireFox",
+              "src": "firefox.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Safari",
+              "src": "slack.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Rest api",
+              "src": "rest-api.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Android",
+              "src": "android.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "iOS",
+              "src": "ios.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Idea",
+              "src": "idea.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Java",
+              "src": "java.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Gradle",
+              "src": "gradle.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "JUnit5",
+              "src": "junit5.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Allure Reports",
+              "src": "allure_report.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Allure TestOps",
+              "src": "allure_testops.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Postman",
+              "src": "postman.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Rest-assured",
+              "src": "rest-assured.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Selenium",
+              "src": "selenium.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Selenide",
+              "src": "selenide.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Appium",
+              "src": "appium.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Appium",
+              "src": "appium.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "GitHub",
+              "src": "github.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Jenkins",
+              "src": "jenkins.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Docker",
+              "src": "docker.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Selenoid",
+              "src": "selenoid.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Browserstack",
+              "src": "browserstack.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Jira",
+              "src": "jira.svg",
+              "colored": false,
               "type": "code"
             },
             {
@@ -3766,7 +3271,203 @@
               "colored": true,
               "type": "code"
             }
-          ]
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
+        },
+        {
+          "Title": "Workflow & Processes",
+          "Description": "Test automation course",
+          "Fulltext": "Some testers write automation code to improve test efficiency and reduce the amount of manual work required, while others may be motivated by the desire to receive good compensation for working as automation engineers. Regardless of the reasons for writing automation code, it’s important to focus on producing high-quality, reliable, and maintainable code that adds value to the testing process.\n\n",
+          "Image": "code.png",
+          "icons": [
+            {
+              "title": "Chrome",
+              "src": "chrome.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "FireFox",
+              "src": "firefox.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Safari",
+              "src": "slack.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Rest api",
+              "src": "rest-api.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Android",
+              "src": "android.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "iOS",
+              "src": "ios.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Idea",
+              "src": "idea.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Java",
+              "src": "java.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Gradle",
+              "src": "gradle.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "JUnit5",
+              "src": "junit5.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Allure Reports",
+              "src": "allure_report.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Allure TestOps",
+              "src": "allure_testops.svg",
+              "colored": true,
+              "type": "code"
+            },
+            {
+              "title": "Postman",
+              "src": "postman.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Rest-assured",
+              "src": "rest-assured.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Selenium",
+              "src": "selenium.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Selenide",
+              "src": "selenide.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Appium",
+              "src": "appium.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Appium",
+              "src": "appium.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "GitHub",
+              "src": "github.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Jenkins",
+              "src": "jenkins.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Docker",
+              "src": "docker.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Selenoid",
+              "src": "selenoid.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Browserstack",
+              "src": "browserstack.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Jira",
+              "src": "jira.svg",
+              "colored": true,
+              "type": "code"
+            },
+            {
+              "title": "Telegram",
+              "src": "telegram.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Slack",
+              "src": "slack.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Discord",
+              "src": "discord.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Mail",
+              "src": "gmail.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Skype",
+              "src": "skype.svg",
+              "colored": false,
+              "type": "code"
+            },
+            {
+              "title": "Mattermost",
+              "src": "mattermost.svg",
+              "colored": false,
+              "type": "code"
+            }
+          ],
+          "step": {
+            "src": "chrome.svg",
+            "title": "Chrome"
+          }
         }
       ]
     }
